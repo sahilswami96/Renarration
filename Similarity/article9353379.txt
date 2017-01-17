@@ -1,0 +1,3 @@
+0.0508161991262 http://www.thehindu.com/news/cities/Tiruchirapalli/Integrated-solution-to-farm-crisis-sought/article16906463.ece
+0.0763528193128 http://www.thehindu.com/sci-tech/agriculture/Four-phalanxes-of-farmers-march-to-Delhi/article16699957.ece
+0.0849259720676 http://www.thehindu.com/life-and-style/fitness/Moves-for-the-soul/article14795313.ece
