@@ -1,0 +1,40 @@
+India
+0.0596028765221 article4304303.txt
+0.216069203375 article4252972.txt
+0.222500928011 article4245433.txt
+New Year
+0.0596028765221 article4304303.txt
+0.216069203375 article4252972.txt
+0.222500928011 article4245433.txt
+Congress
+0.0 article4347742.txt
+0.0 article4304303.txt
+0.0 article4335977.txt
+December
+0.258757950528 article4252972.txt
+0.261346192716 article4245433.txt
+0.3141468277 article4225524.txt
+Gujarat Assembly
+0.00799267781392 article4304303.txt
+0.00818149797876 article4335977.txt
+0.00842361616117 article4557863.txt
+Parivartan Party
+0.0 article4347742.txt
+0.0 article4304303.txt
+0.0 article4335977.txt
+Keshubhai Patel
+0.0 article4347742.txt
+0.0 article4304303.txt
+0.0 article4335977.txt
+Gujarat
+0.0 article4347742.txt
+0.0 article4304303.txt
+0.0 article4335977.txt
+Chief Minister
+0.0 article4347742.txt
+0.0 article4304303.txt
+0.0 article4335977.txt
+Bharatiya Janata Party
+0.0 article4347742.txt
+0.0 article4304303.txt
+0.0 article4335977.txt
